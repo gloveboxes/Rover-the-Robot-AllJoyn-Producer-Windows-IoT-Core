@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverRobotAllJoynProducer",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RoverLibrary", "RoverLibrary\RoverLibrary.vcxproj", "{58C9761E-3012-4822-9FC4-A46A203A2884}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AllJoyn Definition", "AllJoyn Definition", "{AF157532-886E-4B86-897C-5FBECC2B0DB6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CBD1EC48-6FDF-4DF3-922B-AE583339638D}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Users\dglover\Desktop\Rover.xml = ..\..\..\..\Users\dglover\Desktop\Rover.xml
+		Rover AllJoyn Definition\Rover.xml = Rover AllJoyn Definition\Rover.xml
 	EndProjectSection
 EndProject
 Global
